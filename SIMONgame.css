@@ -1,0 +1,62 @@
+body{
+    text-align:center;
+}
+
+h1{
+    font-size:50px;
+    color:darkred;
+    font-weight: 700;
+}
+
+.btn{
+    width:10rem;
+    height:10rem;
+    border:8px solid black;
+    border-radius: 2rem;
+    margin: 2rem;
+}
+
+.btn-container{
+    display:flex;
+    justify-content: center;
+}
+
+.red{
+    background-color:#900C3F	;
+}
+
+.yellow{
+    background-color:#FFC300;
+}
+
+
+.blue{
+    background-color:cadetblue;
+}
+
+.purple{
+    background-color: chartreuse;
+}
+
+
+.flash{
+    background-color: white;
+}
+
+
+.userflash{
+    background-color:green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
